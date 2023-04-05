@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Lion King",
+    "genres": "Drama",
+    "releaseyear": 1994,
+    "productioncompany": "Walt Disney",
+    "image": "https://www.themoviedb.org/t/p/original/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "reviewpoint": "4.8/5",
+    "info": "This Disney animated feature follows the adventures of the young lion Simba (Jonathan Taylor Thomas), the heir of his father, Mufasa (James Earl Jones). Simba's wicked uncle, Scar (Jeremy Irons), plots to usurp Mufasa's throne by luring father and son into a stampede of wildebeests.",
+    "trailer": "https://www.youtube.com/watch?v=lFzVJEksoDY"
+  },
+  {
+    "title": "Tangled",
+    "genres": "Romance",
+    "releaseyear": 2010,
+    "productioncompany": "Walt Disney",
+    "image": "tangled.jpeg",
+    "reviewpoint": "4.8/5",
+    "info": "Disney animation of a classic tale. Beautiful princess Rapunzel has been locked away in a tower since she was captured as a baby by an old hag. Her magical long blonde hair has the power to provide eternal youth,",
+    "trailer": "https://www.youtube.com/watch?v=wCxuxrLNrsw"
+  },
+  {
+    "title": "Interstellar",
+    "genres": "Sci / Adventure",
+    "releaseyear": 2014,
+    "productioncompany": "Lengendary Pictures",
+    "image": "int.png",
+    "reviewpoint": "4.9/5",
+    "info": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by",
+    "trailer": "https://www.youtube.com/watch?v=2LqzF5WauAw"
+  },
+  {
+    "title": "Miracle in Cell No. 7",
+    "genres": "Drama",
+    "releaseyear": 2013,
+    "productioncompany": "Fineworks/ CL Entertainment",
+    "image": "https://1.bp.blogspot.com/-N_-RN6bTQLM/Xo3pR8lKqcI/AAAAAAAAXXg/1Bcqni-69k8OUWMXfNqQL_UcwvgAjFqCwCLcBGAsYHQ/s1600/miracle%2Bin%2Bcell%2Bno%2B7.jpg",
+    "reviewpoint": "4.9/5",
+    "info": "Inmates at a Korean prison join forces to protect a mentally-impaired comrade and his young daughter, after the former is bullied into confessing to a crime he didn't commit.",
+    "trailer": "https://www.youtube.com/watch?v=tvJQoFGKA0Y"
+  },
+  {
+    "title": "Black Panther",
+    "genres": "Action / Adventure",
+    "releaseyear": 2018,
+    "productioncompany": "Marvel",
+    "image": "https://cdn.shopify.com/s/files/1/0747/3829/products/mL1096_1024x1024.jpg?v=1571445340",
+    "reviewpoint": "4.5/5",
+    "info": "After the death of his father, T'Challa returns home to the African nation of Wakanda to take his rightful place as king. When a powerful enemy suddenly reappears, T'Challa's mettle as king",
+    "trailer": "https://www.youtube.com/watch?v=xjDjIWPwcPU"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "genres": "Action / Sci-fi",
+    "releaseyear": 2018,
+    "productioncompany": "Marvel",
+    "image": "https://www.gamespot.com/a/uploads/original/1578/15789737/3372431-infinitywarposter.jpg",
+    "reviewpoint": "4.8/5",
+    "info": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality.",
+    "trailer": "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "genres": "Action / Sci-fi",
+    "releaseyear": 2019,
+    "productioncompany": "Marvel",
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/MLou2_Payoff_1-Sht_Online_DOM_v7_Sm.jpg",
+    "reviewpoint": "4.3/5",
+    "info": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle.",
+    "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c"
+  },
+  {
+    "title": "Up",
+    "genres": "Family / Adventure",
+    "releaseyear": 2009,
+    "productioncompany": "Walt Disney",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_.jpg",
+    "reviewpoint": "4.8/5",
+    "info": "Carl Fredricksen, a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness.",
+    "trailer": "https://www.youtube.com/watch?v=ZE_V0g9q4g0"
+  },
+  {
+    "title": "Toy Story 3",
+    "genres": "Family / Adventure",
+    "releaseyear": 2010,
+    "productioncompany": "Walt Disney",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/p_toystory3_19639_3c584e1f.jpeg",
+    "reviewpoint": "4.7/5",
+    "info": "With their beloved Andy preparing to leave for college, Woody (Kim Seung-jun), Buzz Lightyear (Park Il), Jessie (Ham Soo-jeong), and the rest of the toys find themselves headed for the attic but mistakenly wind up on the curb with the trash.",
+    "trailer": "https://www.youtube.com/watch?v=JcpWXaA2qeg"
+  },
+  {
+    "title": "Monsters University",
+    "genres": "Family / Comedy",
+    "releaseyear": 2013,
+    "productioncompany": "Walt Disney",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_.jpg",
+    "reviewpoint": "4.4/5",
+    "info": "Ever since he was a kid monster, Mike Wazowski (Billy Crystal) has dreamed of becoming a Scarer. To make his dream a reality, he enrolls at Monsters University. During his first semester, he meets Sulley (John Goodman), a natural-born Scarer.",
+    "trailer": "https://www.youtube.com/watch?v=QxrQ6BaijAY"
+  },
+  {
+    "title": "Inside Out",
+    "genres": "Family / Comedy",
+    "releaseyear": 2015,
+    "productioncompany": "Walt Disney",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/p_insideout_19751_af12286c.jpeg",
+    "reviewpoint": "4.7/5",
+    "info": "Riley (Kaitlyn Dias) is a happy, hockey-loving 11-year-old Midwestern girl, but her world turns upside-down when she and her parents move to San Francisco.",
+    "trailer": "https://www.youtube.com/watch?v=yRUAzGQ3nSY"
+  },
+  {
+    "title": "I am Sam",
+    "genres": "Drama / Melodrama",
+    "releaseyear": 2001,
+    "productioncompany": "Bedford Falls Productions",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE2Mzk5MTAxMV5BMl5BanBnXkFtZTcwNDQyMjgyMQ@@._V1_.jpg",
+    "reviewpoint": "4.8/5",
+    "info": "I Am Sam\" is the compelling story of Sam Dawson (Sean Penn), a mentally-challenged father raising his daughter Lucy (Dakota Fanning) with the help of a unique group of friends.",
+    "trailer": "https://www.youtube.com/watch?v=ir6_2EkhzAc"
+  },
+  {
+    "title": "Titanic",
+    "genres": "Romance / Drama",
+    "releaseyear": 1997,
+    "productioncompany": "Paramount Pictures",
+    "image": "https://cdn.shopify.com/s/files/1/1416/8662/products/titanic_1997_fr_original_film_art.jpg?v=1619289844",
+    "reviewpoint": "4.8/5",
+    "info": "James Cameron's \"Titanic\" is an epic, action-packed romance set against the ill-fated maiden voyage of the R.M.S. Titanic; the pride and joy of the White Star Line and, at the time, the largest moving object ever built.",
+    "trailer": "https://www.youtube.com/watch?v=I7c1etV7D7g"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "genres": "Action / Adventure",
+    "releaseyear": 2022,
+    "productioncompany": "Paramount Pictures",
+    "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/315503859_1147571489197947_4925324120015583947_n_480x.progressive.jpg?v=1670356276",
+    "reviewpoint": "4.8/5",
+    "info": "Top Gun: Maverick is a 2022 American action drama film directed by Joseph Kosinski and written by Ehren Kruger, Eric Warren Singer and Christopher McQuarrie from stories by Peter Craig and Justin Marks. The film is a sequel to the 1986 film Top Gun. Tom Cruise reprises his starring role as the naval aviator Maverick. It was based on the characters of the original film created by Jim Cash and Jack Epps Jr.",
+    "trailer": "https://www.youtube.com/watch?v=qSqVVswa420"
+  },
+  {
+    "title": "High School Musical",
+    "genres": "Musical / Comedy",
+    "releaseyear": 2006,
+    "productioncompany": "Disney Channel",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-8iil4l_d6ecf7bd.jpeg",
+    "reviewpoint": "4.5/5",
+    "info": "Troy Bolton (Zac Efron), the star athlete at a small-town high school, falls for nerdy beauty Gabriella Montez (Vanessa Anne Hudgens) at a holiday karaoke party.",
+    "trailer": "https://www.youtube.com/watch?v=zL4ZEWYsmuw"
+  },
+  {
+    "title": "Camp Rock",
+    "genres": "Musical / Romance",
+    "releaseyear": 2008,
+    "productioncompany": "Disney Channel",
+    "image": "camprock.webp",
+    "reviewpoint": "4.3/5",
+    "info": "A teenage girl desperately wants to spend her summer in a rock camp, but the only way she can get in is by working in the kitchen.",
+    "trailer": "https://www.youtube.com/watch?v=ZC_d2RgGJ54"
+  },
+  {
+    "title": "Princess Protection Programme",
+    "genres": "Family / Comedy",
+    "releaseyear": 2009,
+    "productioncompany": "Disney Channel",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/p_princessprotectionprogram_19879_b791c645.jpeg?region=0%2C0%2C540%2C810",
+    "reviewpoint": "4.6/5",
+    "info": "When her kingdom is threatened, a young princess is taken into the Princess Protection Program. She is relocated to rural Wisconsin, where she stays with a covert agent and his daughter, and must learn how to behave like a normal teenager.",
+    "trailer": "https://www.youtube.com/watch?v=hl3EpLY_A5M"
+  },
+  {
+    "title": "Avatar",
+    "genres": "Action / Science fiction",
+    "releaseyear": 2009,
+    "productioncompany": "20th Century Fox",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/avatar_800x1200_208c9665.jpeg?region=0%2C0%2C800%2C1200",
+    "reviewpoint": "4.6/5",
+    "info": "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora.",
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+  },
+  {
+    "title": "Aladdin",
+    "genres": "Musical / Fantasy",
+    "releaseyear": 2019,
+    "productioncompany": "Walt Disney",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_.jpg",
+    "reviewpoint": "4.3/5",
+    "info": "Aladdin is a lovable street urchin who meets Princess Jasmine, the beautiful daughter of the sultan of Agrabah. While visiting her exotic palace, Aladdin stumbles upon a magic oil lamp that unleashes a powerful, wisecracking, larger-than-life genie.",
+    "trailer": "https://www.youtube.com/watch?v=9g5knnlF7Zo"
+  },
+  {
+    "title": "Along with the Gods: The Two Worlds",
+    "genres": "Action / Fantansy",
+    "releaseyear": 2017,
+    "productioncompany": "Dexter Studios",
+    "image": "https://c8.alamy.com/comp/KTWH79/along-with-the-gods-the-two-worlds-south-korean-poster-from-left-ju-KTWH79.jpg",
+    "reviewpoint": "4.9/5",
+    "info": "Three grim reapers escorts a man to the afterlife and will decide his fate based on what he had done when he was alive.",
+    "trailer": "https://www.youtube.com/watch?v=y8d43NuFIow"
+  },
+  {
+    "title": "The Roundup 2",
+    "genres": "Action / Crime",
+    "releaseyear": 2022,
+    "productioncompany": "Hong film",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTA5ZDBhNTAtY2Q1ZS00MjEzLWFhNTctY2E4Y2E1YTBlMDM1XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+    "reviewpoint": "4.9/5",
+    "info": "A police officer travels to Vietnam to extradite a suspect and discovers a murderer who has been targeting tourists for years.",
+    "trailer": "https://www.youtube.com/watch?v=ziG80PNrJYI"
+  },
+  {
+    "title": "Grown Ups",
+    "genres": "Comedy",
+    "releaseyear": 2010,
+    "productioncompany": "Columbia Pictures Happy Madison Productions Relativity Media",
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51AMyXw-IHL._AC_.jpg",
+    "reviewpoint": "4.7/5",
+    "info": "A single man who drinks too much. A father with three daughters who he rarely sees. A guy who is overweight and unemployed. A hen-pecked househusband. A successful Hollywood agent married to a fashion designer.",
+    "trailer": "https://www.youtube.com/watch?v=e01NVCveGkg"
+  },
+  {
+    "title": "The Admiral: Roaring Currents",
+    "genres": "War / Action",
+    "releaseyear": 2014,
+    "productioncompany": "Big Stone Pictures",
+    "image": "http://www.dailysportshankook.co.kr/news/photo/202003/220692_219829_5335.jpg",
+    "reviewpoint": "4.4/5",
+    "info": "In 1597, Korean Admiral Yi leads 12 warships into the Battle of Myeong-Nyang against the formidable Japanese navy.",
+    "trailer": "https://www.youtube.com/watch?v=7PBIHkKi0wM"
+  },
+  {
+    "title": "Train to Busan",
+    "genres": "Horror / Action",
+    "releaseyear": 2016,
+    "productioncompany": "Next Entertainment World",
+    "image": "https://t2.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/q7V/image/aLcnGf6YP_1Cm8DBJDJy0vdMweA.jpg",
+    "reviewpoint": "4.2/5",
+    "info": "A man (Gong Yoo), his estranged daughter and other passengers become trapped on a speeding train during a zombie outbreak in South Korea.",
+    "trailer": "https://www.youtube.com/watch?v=1ovgxN2VWNc"
+  },
+  {
+    "title": "Fall in Love at First Kiss",
+    "genres": "Romance / Comedy",
+    "releaseyear": 2019,
+    "productioncompany": "New Classics Media",
+    "image": "https://i.pinimg.com/originals/3f/b7/a8/3fb7a894be0f3ca466d7369380213916.png",
+    "reviewpoint": "4.7/5",
+    "info": "Yuan Xiangqin falls in love with Jiang Zhishu at first sight, but he rejects her confession in front of the whole school. However, Yuan Xiangqin never gives up, and her sad love story begins",
+    "trailer": "https://www.youtube.com/watch?v=MOVJfn3OMlw"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "genres": "Fantasy / Adventure",
+    "releaseyear": 2001,
+    "productioncompany": "Warner Bros. Pictures",
+    "image": "https://i5.walmartimages.com/asr/40deef7d-3881-481a-a49c-97cb97bb3e52.ba9bcd90f665be0d2e7e48ae1dd39b6d.jpeg",
+    "reviewpoint": "4.8/5",
+    "info": "Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own.",
+    "trailer": "https://www.youtube.com/watch?v=VyHV0BRtdxo"
+  },
+  {
+    "title": "Get Out",
+    "genres": "Horror / Thriller",
+    "releaseyear": 2017,
+    "productioncompany": "Monkey paw productions movies",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_.jpg",
+    "reviewpoint": "4.5/5",
+    "info": "Now that Chris and his girlfriend, Rose, have reached the meet-the-parents milestone of dating, she invites him for a weekend getaway upstate with her parents, Missy and Dean.",
+    "trailer": "https://www.youtube.com/watch?v=DzfpyUB60YY"
+  }
+]
